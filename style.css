@@ -90,7 +90,3 @@ body{
         flex-direction: row;
     }
 }
-.parametro-senha-botoes{
-    display: flex;
-    justify-content: center;
-}
